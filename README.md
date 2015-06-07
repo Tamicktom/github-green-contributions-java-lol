@@ -193,3 +193,4 @@ activities/
 - 📅 Contribuição em 03/06/2015
 - 📅 Contribuição em 04/06/2015
 - 📅 Contribuição em 05/06/2015
+- 📅 Contribuição em 06/06/2015
