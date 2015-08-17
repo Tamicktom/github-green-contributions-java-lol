@@ -265,3 +265,4 @@ activities/
 - 📅 Contribuição em 14/08/2015
 - 📅 Contribuição em 15/08/2015
 - 📅 Contribuição em 16/08/2015
+- 📅 Contribuição em 17/08/2015
